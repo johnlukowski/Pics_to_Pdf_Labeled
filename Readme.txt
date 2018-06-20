@@ -6,6 +6,10 @@ convert.bat, pics2pdf.bat, generate_docx.py, template.docx
 Temporary Files:
 output.docx
 
+Dependencies:
+Python 2.7 (may work with newer)
+DOCX-0.8.6 for python
+
 Written By John Lukowski (lukowskijohn@gmail.com)
 
 For the purpose of assisting Lukowski Consulting Inc
